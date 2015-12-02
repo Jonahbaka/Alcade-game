@@ -1,16 +1,6 @@
 <<<<<<< HEAD
 <h1>Arcade Game</h1>
 [Live Demo!](http://jonahbaka.github.io/github.io-alcadeGame)
-<h1>References</h1>
-<ul> 
-	<li><a href="https://github.com/udacity/frontend-nanodegree-arcade-game">Udacity JS helper</a></li>
-</ul>
-=======
-# Alcade-game
-Game project
->>>>>>> 15645c88884d83bb3d08a4603e49995016dfcf83
-
-Arcade Game
 Using your arrow keys to reach to the other side in 60 seconds! If you reach destination, you gain 1 point!
 Collect following items :)
 Blue Gem - Bugs' speed decrease 1 second!
@@ -21,3 +11,7 @@ Avoid following items :(
 Bug - lose one life!
 Water - lose one life!
 Rock - lose one life!
+
+<h1>References</h1>
+<ul> 
+ 
